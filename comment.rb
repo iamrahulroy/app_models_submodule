@@ -7,7 +7,11 @@ class Comment < ApplicationRecord
     puts 'parent_repo_method'
   end
 
-  def submodule_method_added
-    puts 'submodule_method_added'
+  def testing_room_folder_commit
+    puts 'testing_room_folder_commit'
+  end
+
+  def testing_room_folder_commit
+    puts 'testing_room_folder_commit'
   end
 end
